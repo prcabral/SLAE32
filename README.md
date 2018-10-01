@@ -1,2 +1,2 @@
-# SLA32
-SLA32 Assignments
+# SLAE32
+SLAE32 Assignments

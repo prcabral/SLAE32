@@ -1,10 +1,10 @@
-; Title		:
-; Date		:
-; Author	: Pedro Cabral
-; Blog Post	:
-; Twitter	: https://twitter.com/CabrallPedro
+; Title		  : TCP bind shell
+; Date		  : 01/10/18
+; Author	  : Pedro Cabral
+; Blog Post	: https://binaryexploit.com/TCP_Bind_Shell_Shellcode/
+; Twitter	  : https://twitter.com/CabrallPedro
 ; LinkedIn	: https://www.linkedin.com/in/pedro-cabral1992
-; SLAE ID	: SLAE-1372
+; SLAE ID	  : SLAE-1372
 ; Tested on	: i686 GNU/Linux
 
 global _start
